@@ -1,0 +1,10 @@
+├── main.py
+├── gui_manager.py
+├── utils.py
+└── model/
+    ├── __init__.py
+    ├── config.py
+    ├── ollama_provider.py
+    ├── groq_provider.py
+    ├── openai_provider.py
+    └── azure_provider.py
